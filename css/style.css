@@ -1,0 +1,108 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+.header_banner{
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    height: 150px;
+    text-align: center;
+}
+.middle_content{
+    overflow: hidden;
+}
+.renault_trucks{
+    color: rgb(255, 255, 255);
+    background-color: darkblue;
+    width: 25%;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
+.transport_solutions{
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 250, 208);
+    width: 25%;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
+.careers{
+    color: rgb(255, 255, 255);
+    background-color: rgb(165, 0, 187);
+    width: 25%;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
+.newsroom{
+    color: rgb(255, 255, 255);
+    background-color: rgb(185, 127, 0);
+    width: 25%;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
+.lower_content{
+    overflow: hidden;
+}
+.gallery{
+    color: rgb(255, 255, 255);
+    background-color: darkorange;
+    width: 60%;
+    height: 450px;
+    text-align: center;
+    float: left;
+}
+.right{
+    width: 40%;
+    height: 450px;
+    float:left;
+    overflow: hidden;
+}
+.shop_now{
+    color: rgb(0, 0, 0);
+    background-color: rgb(30, 255, 0);
+    height: 225px;
+    text-align: center;
+
+}
+.renault_dealers{
+    color: rgb(255, 255, 255);
+    background-color: rgb(225, 0, 255);
+    height: 225px;
+    text-align: center;
+}
+.footer{
+overflow: hidden;
+}
+.customer_review{
+    color: darkorange;
+    background-color: darkslategray;
+    text-align: center;
+    width: 35%;
+    height: 80px;
+    float: left;
+}
+.contact_us{
+    color: rgb(255, 255, 255);
+    background-color: navy;
+    text-align: center;
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+.service_center{
+    color: black;
+    background-color: lightgreen;
+    text-align: center;
+    width: 35%;
+    height: 80px;
+    float: left;
+}
